@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @rukiahassan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m **@rukiahassan**
+
+- 👀 I’m interested in **software engineering, data engineering, data science, AI/ML, and tech innovation**
+- 🌱 I’m currently learning **advanced ML pipelines, Go, Kubernetes, and cloud-native data stacks**
+- 💞️ I’m looking to collaborate on **open‑source AI/data tools, community-driven tech projects, and mentorship initiatives**
+- 📫 How to reach me: **email (your.email@example.com)**, **LinkedIn: linkedin.com/in/yourprofile**, **Twitter: @rukiahassan**
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: **I launched a community program that empowers women and youth in tech through workshops and hackathons**
+
+---
+
+🔧 **Tech at a glance**  
+Python • Go • SQL • TensorFlow • PyTorch • Apache Airflow • AWS/GCP • Docker • Spark
+
+🌟 **Community leadership**  
+Founder & mentor at [Your Community Name], organizing data/AI meetups and events that support underrepresented groups in tech.
+
+
+
 
 <!---
 rukiahassan/rukiahassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
